@@ -1,0 +1,14 @@
+{
+    "hass_debug": {
+        "version": "1.0.1",
+        "local_location": "/custom_components/hass_debug/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/elad-bar/ha-hass-debug/master/custom_components/hass_debug/__init__.py",
+        "visit_repo": "https://github.com/elad-bar/ha-hass-debug",
+        "changelog": "https://github.com/elad-bar/ha-hass-debug/releases/latest",
+        "resources": [
+            "https://raw.githubusercontent.com/elad-bar/ha-hass-debug/master/custom_components/hass_debug/const.py",
+            "https://raw.githubusercontent.com/elad-bar/ha-hass-debug/master/custom_components/hass_debug/manifest.json",
+            "https://raw.githubusercontent.com/elad-bar/ha-hass-debug/master/custom_components/hass_debug/services.yaml"
+        ]
+    }
+}

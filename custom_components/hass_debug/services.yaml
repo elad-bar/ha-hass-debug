@@ -1,0 +1,5 @@
+is_active:
+  description: Enables / Disables debug mode
+  fields:
+    state:
+      description: "True / False - Debug mode is active or not"
